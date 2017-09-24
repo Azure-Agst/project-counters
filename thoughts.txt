@@ -1,0 +1,38 @@
+[Updated: 9/12/17 12:50 PM]
+
+well, user personalization is done.
+
+also customized pages are done.
+
+what should i do next?
+- create tables for each house (ugh.)
+- house-specific pages (maybe.)
+- ???????????????
+
+i'll think of stuff.
+
+for now i'm gonna watch the apple special event. bye.
+
+--
+
+[Update: 9/12/17 2:58 PM]
+
+okay i'm back
+
+that new iphone x looks slick asfuuuuuuuuuuuuuuuuuuuuuuuuuu
+
+anyways back to work.
+
+--
+
+[Update 9/12/17 11:02 PM]
+
+Alright i'm done for the night. For tomorrow:
+
+- make sure to finish the admin console
+- create volunteer checkin page
+    - Admin would create event in table `future`, with name, start time, and end time.
+    - When active, index will show live point tally
+    - when done, admin can verify point values then php will transfer values to testpts.
+    - see paper for more details.
+- start customizing CSS depending on what house the user is in
